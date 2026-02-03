@@ -6,4 +6,4 @@ Screencast video: (add link after recording)
 
 Tools:
 - IDE: Visual Studio Code (version: 1.103.2)
-- Screencast software: OBS Studio (version: ___)
+- Screencast software: OBS Studio (version: 31.0.4)
