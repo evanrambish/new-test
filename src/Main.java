@@ -3,6 +3,8 @@ import java.math.BigInteger;
 
 public class Main {
     /**
+     * // This program demonstrates Java, debugging, and git usage
+
  * Main entry point for the program.
  * Reads a number from the user and prints
  * its factorial and all prime numbers up to it.
