@@ -20,7 +20,7 @@ public class Main {
             return;
         }
 
-        System.out.println("Factorial of " + n + " = " + factorial(n));
+        System.out.println("Factorial of " + n + " = " + "0");
 
         int limit = (int) Math.min(n, Integer.MAX_VALUE);
         System.out.println("Primes up to " + n + ":");
