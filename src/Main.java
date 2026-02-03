@@ -2,6 +2,11 @@ import java.util.*;
 import java.math.BigInteger;
 
 public class Main {
+    /**
+ * Main entry point for the program.
+ * Reads a number from the user and prints
+ * its factorial and all prime numbers up to it.
+ */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a non-negative integer: ");
