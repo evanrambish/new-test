@@ -2,7 +2,7 @@
 
 Full name: Evan Plascencia-Rambish
 GitHub repo: https://github.com/evanrambish/new-test.git 
-Screencast video: (add link after recording)
+Screencast video: https://vimeo.com/1161294841?share=copy&fl=sv&fe=ci
 
 Tools:
 - IDE: Visual Studio Code (version: 1.103.2)
